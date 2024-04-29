@@ -29,8 +29,5 @@ Whether you're a seasoned developer, a budding designer, or simply passionate ab
 ## Contributors 🙌
 A big thank you to all our contributors who help make DevCollab Creations a vibrant community of creators and collaborators!
 
-## License 📝
-This repository is licensed under the [MIT License](LICENSE).
-
 Let's create, collaborate, and innovate together! Happy coding! 🚀✨
 ```
